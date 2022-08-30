@@ -39,3 +39,4 @@
 ## 되돌리기 테스트용 코드
 
 ## Revert  이용해서 되돌리기
+git push --force
